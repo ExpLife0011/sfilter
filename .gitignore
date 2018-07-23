@@ -46,6 +46,11 @@
 *.mod*
 *.cmd
 .tmp_versions/
+
+.idea/
+cmake-build*/
+
+
 modules.order
 Module.symvers
 Mkfile.old
